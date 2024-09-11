@@ -7,5 +7,5 @@
  * - Uma API de consulta de CEP válida (ex: República Virtual).
  
  * Exemplo de uso:
- * 1 O usuário insere o CEP desejado.
- * 2 O programa consulta a API, faz o parsing do XML e preenche os campos com as informações do endereço.
+ *  O usuário insere o CEP desejado.
+ *  O programa consulta a API, faz o parsing do XML e preenche os campos com as informações do endereço.
